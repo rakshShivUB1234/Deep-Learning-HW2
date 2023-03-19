@@ -1,3 +1,13 @@
 # Deep-Learning-HW2
 DL hw2
-to run the program: copy the file; copy in pycharm 
+I have coded in python and used PYCHARM software. To run the program: I have used the packages called 
+import torch
+import torch.nn as nn
+import torchvision.datasets as dsets
+import torchvision.transforms as transforms
+from torch.utils.data import DataLoader
+import matplotlib.pyplot as plt
+
+pip install pytorch
+
+
